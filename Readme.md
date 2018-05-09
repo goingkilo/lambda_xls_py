@@ -2,7 +2,7 @@
 
 This repo contains 
 - Code for the xls parser
-- AWS Lambda function + test input event as json
+- AWS Lambda function + test input event as json + yaml file
 - Test case(s) and data folder containing test data
 
 It does not contain the xlrd libraries which are required by AWS Lambda to be present in the same directory.
